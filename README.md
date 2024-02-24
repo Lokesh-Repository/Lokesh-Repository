@@ -20,7 +20,17 @@ An Web Application Built By Student For Student With All The Love.
 A Fun And Sarcastic Project.An Alternative OS Landing Page.All Interactive And Mobile Friendlly Only.
 
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Get in Touch
 
@@ -38,7 +48,7 @@ Your support means a lot and helps me continue to create and improve my projects
 
 
 
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Repository&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Repository&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient)
 
 ## Thank You!
 
