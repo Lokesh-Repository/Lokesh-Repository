@@ -20,18 +20,6 @@ An Web Application Built By Student For Student With All The Love.
 A Fun And Sarcastic Project.An Alternative OS Landing Page.All Interactive And Mobile Friendlly Only.
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 ## Get in Touch
 
 I'm always open to collaboration and new opportunities! Feel free to reach out to me via [Email](mailto:lokeshlokey26@gmail.com) or connect with me on [My Portfolio](https://lokesh-repository.github.io/my-portfolio/).
