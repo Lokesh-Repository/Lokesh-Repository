@@ -36,6 +36,9 @@ If you find my work useful or interesting, consider supporting me by:
 
 Your support means a lot and helps me continue to create and improve my projects!
 
+
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Repositorya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ## Thank You!
 
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Don't hesitate to reach out if you have any questions, suggestions, or just want to say hi. Happy coding! 😊
