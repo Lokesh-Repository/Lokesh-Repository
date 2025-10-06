@@ -6,18 +6,6 @@
 
 I'm passionate about the web technologies,web designing,wed development,and much more all related to the web applications/technologies. Whether it's coding, design, or tinkering with new technologies, I love diving into creative projects that challenge me and allow me to learn and grow.
 
-## Featured Projects
-
-Here are some of the projects I'm particularly proud of:
-
-### [WeSoft](wesoft.rf.gd)
-An Interactive,Responsive User Friendlly Landing Page For A Software Developement Company.
-
-### [EduTrue](edutrue.rf.gd)
-An Web Application Built By Student For Student With All The Love.
-
-### [Windoss](https://lokesh-repository.github.io/Windoss/)
-A Fun And Sarcastic Project.An Alternative OS Landing Page.All Interactive And Mobile Friendlly Only.
 
 
 ## Get in Touch
