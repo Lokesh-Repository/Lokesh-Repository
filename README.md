@@ -10,7 +10,7 @@ I'm passionate about the web technologies,web designing,wed development,and much
 
 ## Get in Touch
 
-I'm always open to collaboration and new opportunities! Feel free to reach out to me via [Email](mailto:lokeshlokey26@gmail.com) or connect with me on [My Portfolio](https://lokesh-repository.github.io/my-portfolio/).
+I'm always open to collaboration and new opportunities! Feel free to connect with me on [My Portfolio](https://slokesh.me).
 
 ## Support Me
 
